@@ -200,7 +200,7 @@ p {
     margin-right: 2%;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 20px 30px 35px black;
+    box-shadow: 10px 20px 25px black;
 }
 
 .food {
@@ -213,6 +213,28 @@ p {
 
 .help {
     text-align: center;
+}
+
+.email-box {
+    text-align: center;
+    background-color: rgb(238, 174, 90);
+    width: 50%;
+    text-decoration: none;
+    padding: 30px;
+    margin-right: 20%;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+
+#loging-button {
+    background-color: tomato;
+    border: 5px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: -5px;
+    margin-top: 50px;
+
 }
 
 .footer {
@@ -228,4 +250,5 @@ p {
 .footer-text {
     color: white;
     padding-bottom: 20px;
+    font-size: 10px;
 }
