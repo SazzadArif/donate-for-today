@@ -8,6 +8,10 @@ h1 {
 
 }
 
+h2 {
+    font-size: 40px;
+}
+
 h3 {
     font-size: 35px;
 }
@@ -181,7 +185,7 @@ p {
 
 #finance-manager {
     text-align: left;
-    width: 40%;
+    width: 30%;
     margin-left: 2%;
     margin-right: 2%;
     padding: 25px;
@@ -197,4 +201,31 @@ p {
     padding: 25px;
     border-radius: 10px;
     box-shadow: 20px 30px 35px black;
+}
+
+.food {
+    text-align: center;
+}
+
+.finance {
+    text-align: center;
+}
+
+.help {
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+}
+
+.footer-head {
+    color: red;
+    padding: 10px;
+}
+
+.footer-text {
+    color: white;
+    padding-bottom: 20px;
 }
